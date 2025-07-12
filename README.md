@@ -1,59 +1,52 @@
-<h1 align="center">Salut 👋, je suis Maroua Ariguib</h1>
-<h3 align="center">Ingénieure en informatique et multimédia — passionnée par le développement web, les interfaces intuitives, et les solutions digitales modernes.</h3>
+<h1 style="color: #6A1B9A;">Salut 👋, je suis <strong>Maroua Ariguib</strong></h1>
 
----
+<p>Étudiante en ingénierie informatique et multimédia. Passionnée par le développement web, les technologies interactives, le design UX/UI et la création de jeux vidéo.</p>
 
-### 💡 À propos de moi
+<hr>
 
-🎓 Étudiante en cycle ingénieur en informatique & multimédia  
-🎯 Objectif : Créer des expériences numériques utiles, performantes et accessibles  
-🧠 Intérêts : Développement web, design UX/UI, systèmes intelligents, jeux interactifs  
+<h2 style="color: #2E7D32;">🌟 Compétences</h2>
 
----
-
-### 🛠️ Compétences techniques
-
-#### Langages de programmation
-
+<!-- Langages -->
+<h3>Langages</h3>
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </p>
 
-#### Frameworks et bibliothèques
-
+<!-- Frameworks / Libs -->
+<h3>Frameworks & Bibliothèques</h3>
 <p>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node-dot-js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
 </p>
 
-#### Bases de données
-
+<!-- Bases de données -->
+<h3>Bases de Données</h3>
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-#### Outils et plateformes
-
+<!-- Outils -->
+<h3>Outils</h3>
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
----
+<hr>
 
-### 📫 Me contacter
+<h2 style="color: #AD1457;">📍 Me contacter</h2>
+<ul>
+  <li><strong>Email :</strong> marouaariguib284@gmail.com</li>
+  <li><strong>LinkedIn :</strong> <a href="https://www.linkedin.com/in/maroua-ariguib" target="_blank">linkedin.com/in/maroua-ariguib</a></li>
+</ul>
 
-- **Email** : [marouaariguib284@gmail.com](mailto:marouaariguib284@gmail.com)  
-- **LinkedIn** : [linkedin.com/in/maroua-ariguib](https://www.linkedin.com/in/maroua-ariguib)
-
----
 
