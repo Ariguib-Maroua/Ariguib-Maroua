@@ -2,7 +2,7 @@
 
 Étudiante en ingénierie informatique et multimédia, passionnée par le développement web, le design UX/UI et la création d’expériences numériques. J'aime concevoir des interfaces fluides et développer des applications modernes, accessibles et performantes.
 
----
+
 
 # Compétences
 
@@ -15,12 +15,16 @@
 
 ---
 
-## Frameworks & autres outils  
+## Frameworks  
 <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />  
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />  
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />  
 <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white" />  
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+
+---
+
+## Bibliothèques & Environnements backend  
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />  
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
 
 ---
 
@@ -33,9 +37,10 @@
 ## Outils & plateformes  
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />  
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />  
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />  
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
 
----
+
 
 # Contact
 
